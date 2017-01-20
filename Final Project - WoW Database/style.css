@@ -1,0 +1,47 @@
+
+	/*style.css page has all the styling elements. Most of them are very basic
+	  and used to create propery spacing and for aesthetics.*/
+
+	#filterPage {
+		margin-top: 2em;
+	}
+
+	#bfilterPage {
+		margin-top: 2em;
+	}
+
+	.filters {
+		margin-top: 3em;
+	}
+
+	.labels {
+		font-style: italic;
+		text-decoration: underline;
+		margin-top: .25em;
+		margin-bottom: .5em;
+	}
+
+	.addMarginTop {
+		margin-top: 3em;
+	}
+
+	thead {
+		font-size: 1.25em;
+		font-style: bold;
+	}
+
+	.marginBottom {
+		margin-bottom: 3em;
+	}
+
+	#logo {
+		margin-top: 2em;
+	}
+
+	#logoDb {
+		margin-top: 5em;
+		margin-left: 3em;
+	}
+
+
+
